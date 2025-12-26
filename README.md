@@ -40,9 +40,9 @@ This project involves building an end-to-end Sales Analysis Dashboard using Powe
 - **Bar and Stacked Column Chart**:
 - Clustered Bar Chart: Sales by Product Line
 - Sales by Customer Country
-**Pie Chart** : Sales distribution by Office
+- **Pie Chart** : Sales distribution by Office
 - **Scatter Chart**: Sales vs Cost of Sales analysis
-- **Decomposition Tree**
+- **Decomposition Tree**: 
 - Analyze: Net Profit
 - Explained by: Customer Country, Product Line, Customer Nam
 - **Slicers**: Date, Product name, Product Line
